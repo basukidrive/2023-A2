@@ -7,8 +7,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-53153828f6c64658a623552d138003b2">
     <bounds
-        x="424"
-        y="156"
+        x="396"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
@@ -74,5 +74,29 @@
     <archimateElement
         xsi:type="archimate:Stakeholder"
         href="Stakeholder_id-0b033d41d6434866a345f4596174cbf5.xml#id-0b033d41d6434866a345f4596174cbf5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3ed87238f4914d15886f7c9ec5de6c98">
+    <bounds
+        x="60"
+        y="348"
+        width="145"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-e434392da76b42c7b5ad0b7c3563009d.xml#id-e434392da76b42c7b5ad0b7c3563009d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0e8cbdfa67cf4c3e804226dccaa67c4a">
+    <bounds
+        x="59"
+        y="444"
+        width="145"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-6195df2fbf0f41e29d1abda273fe957f.xml#id-6195df2fbf0f41e29d1abda273fe957f"/>
   </children>
 </archimate:ArchimateDiagramModel>
