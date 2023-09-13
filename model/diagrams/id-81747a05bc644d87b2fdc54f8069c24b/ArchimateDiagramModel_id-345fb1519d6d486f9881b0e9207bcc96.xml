@@ -131,7 +131,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7ff9cea807504dcea9f729de4fc95346">
+      id="id-7ff9cea807504dcea9f729de4fc95346"
+      targetConnections="id-917891ee31df4a8f99cc468e44e5dc73 id-5077077d83694fb287bb357b404ed1e8 id-d350915ca0884a73b5c539c03e412a7e id-96d2ef3c0bba40d593331b1ee32b9f19">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-9904049c79514c2a842d31a0ad80a4df"
@@ -211,6 +212,15 @@
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-7a524ee042f54c1fb5806ea33f928041.xml#id-7a524ee042f54c1fb5806ea33f928041"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-917891ee31df4a8f99cc468e44e5dc73"
+        source="id-4473ed699cbf4282a129c213df76946c"
+        target="id-7ff9cea807504dcea9f729de4fc95346">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-14587aee27b6414ca7b90e33b0c27de7.xml#id-14587aee27b6414ca7b90e33b0c27de7"/>
+    </sourceConnections>
     <bounds
         x="228"
         y="420"
@@ -232,6 +242,24 @@
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-d19aa0a50638403c8967a753276b693c.xml#id-d19aa0a50638403c8967a753276b693c"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5077077d83694fb287bb357b404ed1e8"
+        source="id-2b13ce9380e9424cb5b669096747b1b9"
+        target="id-7ff9cea807504dcea9f729de4fc95346">
+      <bendpoints
+          startX="12"
+          startY="-39"
+          endX="168"
+          endY="57"/>
+      <bendpoints
+          startX="-156"
+          startY="-39"
+          endY="57"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-f6f98ee7107f47f0a2d55c4c4b6f57c2.xml#id-f6f98ee7107f47f0a2d55c4c4b6f57c2"/>
     </sourceConnections>
     <bounds
         x="384"
@@ -255,6 +283,23 @@
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-0eff7eba9eb14eca8a0ee7846113b2a3.xml#id-0eff7eba9eb14eca8a0ee7846113b2a3"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d350915ca0884a73b5c539c03e412a7e"
+        source="id-5ed19a8f24f547e7b5fdcc29eed5db43"
+        target="id-7ff9cea807504dcea9f729de4fc95346">
+      <bendpoints
+          startY="-39"
+          endX="312"
+          endY="57"/>
+      <bendpoints
+          startX="-312"
+          startY="-39"
+          endY="57"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-0f4be4ba031841e9980b9a6ba1c2e666.xml#id-0f4be4ba031841e9980b9a6ba1c2e666"/>
+    </sourceConnections>
     <bounds
         x="540"
         y="420"
@@ -276,6 +321,24 @@
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-f551f9f5bcd04fb8bdc60dbdc7b9ab39.xml#id-f551f9f5bcd04fb8bdc60dbdc7b9ab39"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-96d2ef3c0bba40d593331b1ee32b9f19"
+        source="id-e60a9990238348d998910e25b0632cfa"
+        target="id-7ff9cea807504dcea9f729de4fc95346">
+      <bendpoints
+          startX="-12"
+          startY="-39"
+          endX="-168"
+          endY="57"/>
+      <bendpoints
+          startX="156"
+          startY="-39"
+          endY="57"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-53aa517cfb574427867f091db14ab43a.xml#id-53aa517cfb574427867f091db14ab43a"/>
     </sourceConnections>
     <bounds
         x="72"
