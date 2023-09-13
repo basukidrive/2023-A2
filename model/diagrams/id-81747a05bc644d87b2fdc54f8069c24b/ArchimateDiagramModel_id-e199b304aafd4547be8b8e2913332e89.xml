@@ -33,8 +33,8 @@
     <bounds
         x="456"
         y="188"
-        width="120"
-        height="55"/>
+        width="133"
+        height="77"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-522fd2416d6a4c99b2c63bde7b7d49eb.xml#id-522fd2416d6a4c99b2c63bde7b7d49eb"/>
@@ -43,7 +43,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3eef33e28cfb44b5ada7419a6a2fdbf1">
     <bounds
-        x="792"
+        x="828"
         y="188"
         width="120"
         height="55"/>
@@ -69,8 +69,8 @@
     <bounds
         x="624"
         y="188"
-        width="120"
-        height="55"/>
+        width="169"
+        height="77"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-a33da29f8730481486a5594412630739.xml#id-a33da29f8730481486a5594412630739"/>
