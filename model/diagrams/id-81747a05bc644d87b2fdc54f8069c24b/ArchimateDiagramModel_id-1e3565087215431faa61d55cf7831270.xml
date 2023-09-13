@@ -60,4 +60,28 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-26fb79bf9b684898b2fdf476bb129eb6.xml#id-26fb79bf9b684898b2fdf476bb129eb6"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-01ca868777374fcb89cc8a339c958974">
+    <bounds
+        x="288"
+        y="240"
+        width="145"
+        height="97"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-d5c8ff1f467c4adf8e17f0d96ba26777.xml#id-d5c8ff1f467c4adf8e17f0d96ba26777"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3ac63be8f4ec4a698463465466ce86cb">
+    <bounds
+        x="48"
+        y="246"
+        width="157"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-df0148b192ce47d88fe009f5ffbc6bf6.xml#id-df0148b192ce47d88fe009f5ffbc6bf6"/>
+  </children>
 </archimate:ArchimateDiagramModel>
