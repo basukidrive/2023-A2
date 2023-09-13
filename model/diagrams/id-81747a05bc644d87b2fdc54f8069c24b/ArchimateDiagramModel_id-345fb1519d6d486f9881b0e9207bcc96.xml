@@ -6,6 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6433dfd0d56c41bd9584351b620c6161"
+      targetConnections="id-40122a3c4d3e4c1db7e4346ffe4e1370"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -24,6 +25,26 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-719af342d9a940ee9f6c6a197c0af138.xml#id-719af342d9a940ee9f6c6a197c0af138"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-40122a3c4d3e4c1db7e4346ffe4e1370"
+        source="id-6433dfd0d56c41bd9584351b620c6161"
+        target="id-6433dfd0d56c41bd9584351b620c6161">
+      <bendpoints
+          startY="84"
+          endY="84"/>
+      <bendpoints
+          startX="240"
+          startY="84"
+          endX="240"
+          endY="84"/>
+      <bendpoints
+          startX="240"
+          endX="240"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-8785b46fe48a471d8aea1372c0001602.xml#id-8785b46fe48a471d8aea1372c0001602"/>
     </sourceConnections>
     <bounds
         x="289"
