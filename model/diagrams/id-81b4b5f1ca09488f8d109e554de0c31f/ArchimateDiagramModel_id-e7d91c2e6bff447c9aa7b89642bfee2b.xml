@@ -1,4 +1,29 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Principles"
-    id="id-e7d91c2e6bff447c9aa7b89642bfee2b"/>
+    id="id-e7d91c2e6bff447c9aa7b89642bfee2b">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-b5b0438326804112b19e8c5c6ca0a8b3"
+      name="Prinsip Umum"
+      textAlignment="1">
+    <bounds
+        x="72"
+        y="36"
+        width="709"
+        height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7a57fa7febd946078c934ae7c8643f5c">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Principle"
+          href="Principle_id-7b6614f2a9e64aa4ac88d6c01ea1cc48.xml#id-7b6614f2a9e64aa4ac88d6c01ea1cc48"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
