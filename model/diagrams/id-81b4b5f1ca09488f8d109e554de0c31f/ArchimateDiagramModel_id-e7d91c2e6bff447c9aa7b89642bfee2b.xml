@@ -12,6 +12,18 @@
         y="24"
         width="661"
         height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a22bde8f56e244bd91dba657668dac33">
+      <bounds
+          x="24"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Principle"
+          href="Principle_id-9134f696414040929e17cde01210d8bb.xml#id-9134f696414040929e17cde01210d8bb"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-f7f7809e0df24eca819e609a5a4e7353.xml#id-f7f7809e0df24eca819e609a5a4e7353"/>
