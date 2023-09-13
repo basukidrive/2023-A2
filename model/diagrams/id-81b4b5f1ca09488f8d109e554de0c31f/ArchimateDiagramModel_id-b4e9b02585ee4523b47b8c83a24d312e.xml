@@ -20,6 +20,33 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a5520a7cf1ac4135a6352465c1787895"
       targetConnections="id-54b804cc73374af79ec4990ecf4b9bb3">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-86e39e491fc94002840e6ef1fa9485b0"
+        source="id-a5520a7cf1ac4135a6352465c1787895"
+        target="id-a8cf64f74a7e4576bdfdeb7204274b77">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-96b86716c183474c8d711c2ea624fb2d"
+          source="id-86e39e491fc94002840e6ef1fa9485b0"
+          target="id-f5d65e5a6f3b462e81965a708629e8e7">
+        <bendpoints
+            startX="-12"
+            startY="120"
+            endX="-108"/>
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-6e237d9c48b140b7b9ad5252c0659dca.xml#id-6e237d9c48b140b7b9ad5252c0659dca"/>
+      </sourceConnections>
+      <bendpoints
+          startX="-47"
+          startY="90"
+          endX="-108"
+          endY="6"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-5d0865dc39734b09bcc40303cd56be95.xml#id-5d0865dc39734b09bcc40303cd56be95"/>
+    </sourceConnections>
     <bounds
         x="258"
         y="276"
@@ -246,9 +273,10 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a8cf64f74a7e4576bdfdeb7204274b77">
+      id="id-a8cf64f74a7e4576bdfdeb7204274b77"
+      targetConnections="id-86e39e491fc94002840e6ef1fa9485b0">
     <bounds
-        x="239"
+        x="300"
         y="348"
         width="169"
         height="61"/>
@@ -268,5 +296,18 @@
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-a0785202e3f7490a98e98c076e36ce47.xml#id-a0785202e3f7490a98e98c076e36ce47"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f5d65e5a6f3b462e81965a708629e8e7"
+      targetConnections="id-96b86716c183474c8d711c2ea624fb2d">
+    <bounds
+        x="300"
+        y="438"
+        width="169"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-39eaf7c28680447cba6cb89a61558022.xml#id-39eaf7c28680447cba6cb89a61558022"/>
   </children>
 </archimate:ArchimateDiagramModel>
