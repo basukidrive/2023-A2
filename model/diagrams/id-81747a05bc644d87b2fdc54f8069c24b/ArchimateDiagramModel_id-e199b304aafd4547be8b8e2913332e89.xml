@@ -1,11 +1,12 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Stuktur Organisasi"
+    name="Struktur Organisasi"
     id="id-e199b304aafd4547be8b8e2913332e89">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1c0dbf5e3df14178b60a4f66066d5fd8">
+      id="id-1c0dbf5e3df14178b60a4f66066d5fd8"
+      targetConnections="id-083c86e3d1ac44f7807d433cbdc9041e">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-348234ad9ac149beb0d944324a4c6558"
@@ -36,6 +37,24 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-80a097857c8a4555b118ce9d940b0503.xml#id-80a097857c8a4555b118ce9d940b0503"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2f5a4f9a575e4ba7b133ccebd137d26d"
+        source="id-1c0dbf5e3df14178b60a4f66066d5fd8"
+        target="id-e5a471d9f5ae4dacbf2309e7394fc812">
+      <bendpoints
+          startY="105"
+          endX="144"
+          endY="1"/>
+      <bendpoints
+          startX="-48"
+          startY="105"
+          endX="96"
+          endY="1"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-1c195f92cbc34641af4b51279de0f2ed.xml#id-1c195f92cbc34641af4b51279de0f2ed"/>
+    </sourceConnections>
     <bounds
         x="264"
         y="84"
@@ -47,7 +66,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e5a471d9f5ae4dacbf2309e7394fc812">
+      id="id-e5a471d9f5ae4dacbf2309e7394fc812"
+      targetConnections="id-2f5a4f9a575e4ba7b133ccebd137d26d">
     <bounds
         x="120"
         y="188"
@@ -84,6 +104,38 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f2be0d6817df4cd4acdb20966e549e1f">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-083c86e3d1ac44f7807d433cbdc9041e"
+        source="id-f2be0d6817df4cd4acdb20966e549e1f"
+        target="id-1c0dbf5e3df14178b60a4f66066d5fd8">
+      <bendpoints
+          startX="-71"
+          startY="1"
+          endX="48"
+          endY="105"/>
+      <bendpoints
+          startX="-59"
+          startY="1"
+          endX="60"
+          endY="105"/>
+      <bendpoints
+          startX="-107"
+          startY="1"
+          endX="12"
+          endY="105"/>
+      <bendpoints
+          startX="-119"
+          startY="1"
+          endY="105"/>
+      <bendpoints
+          startX="-119"
+          startY="-47"
+          endY="57"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-83c7386af0d8477ea4de3f55651e600b.xml#id-83c7386af0d8477ea4de3f55651e600b"/>
+    </sourceConnections>
     <bounds
         x="383"
         y="188"
