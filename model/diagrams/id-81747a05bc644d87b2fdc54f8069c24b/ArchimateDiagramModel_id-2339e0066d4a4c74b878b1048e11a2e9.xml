@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Katalog Proses Bisnis"
+    name="5. Katalog Proses Bisnis"
     id="id-2339e0066d4a4c74b878b1048e11a2e9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -147,7 +147,7 @@
             x="12"
             y="240"
             width="121"
-            height="73"/>
+            height="61"/>
         <archimateElement
             xsi:type="archimate:BusinessFunction"
             href="BusinessFunction_id-bbd1aaf8036c4f369a38280b7786cbb0.xml#id-bbd1aaf8036c4f369a38280b7786cbb0"/>
