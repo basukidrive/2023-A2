@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Policy &amp; Business Rule"
+    name="1. Policy &amp; Business Rule"
     id="id-1e3565087215431faa61d55cf7831270">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -36,9 +36,9 @@
         targetConnections="id-713285ff145641629c09fc1e66d50bd9">
       <bounds
           x="216"
-          y="72"
+          y="66"
           width="145"
-          height="61"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_id-33d62cd8b5cc415cb57f37bf162b2fcd.xml#id-33d62cd8b5cc415cb57f37bf162b2fcd"/>
