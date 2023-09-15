@@ -452,4 +452,17 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-2b47d7cfb6274919a43e0d9875820ed4.xml#id-2b47d7cfb6274919a43e0d9875820ed4"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-592b890ae12d4efe81d4f293205bd5bd"
+      textAlignment="1">
+    <bounds
+        x="589"
+        y="791"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-f6d4f64a469f45c485258f586afa0fd6.xml#id-f6d4f64a469f45c485258f586afa0fd6"/>
+  </children>
 </archimate:ArchimateDiagramModel>
